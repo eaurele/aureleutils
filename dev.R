@@ -3,5 +3,9 @@ usethis::use_build_ignore("dev.R")
 usethis::create_package(".")
 usethis::use_package_doc()
 usethis::use_testthat()
+usethis::use_r("install")
+usethis::use_test("install")
+usethis::use_vignette("introduction-to-aureleutils")
+usethis::use_build_ignore("LICENSE.md")
 
 
