@@ -1,0 +1,4 @@
+navbar:
+  right:
+    - text: Main site
+      href: https://www.aurele.me
